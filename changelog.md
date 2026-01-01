@@ -1,3 +1,7 @@
+# 1.1.1
+
+- Ported freakiness to 2.2074
+
 # 1.1.0
 
 - Ported freakiness to 2.206
